@@ -21,4 +21,4 @@ I am currently architecting the **Agentic Forge**, a system designed to ensure A
 
 ### 👯 Let's Collab
 If you are an excellent coder who wants a partner to handle the "Brain" work—product strategy and high-level architecture—let's talk. I'd love to see what we can build when we combine technical execution with strategic vision.
-**📫 Let's connect:** 
+**📫 Let's connect:** [**Click here to send an anonymous inquiry**](mailto:xgowryoj@herotofu.com?subject=Agentic%20Forge%20Inquiry)
